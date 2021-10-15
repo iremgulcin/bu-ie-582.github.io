@@ -1,1 +1,1 @@
-# bu-ie-582.githun.io
+# bu-ie-582.github.io
